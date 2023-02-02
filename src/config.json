@@ -3,7 +3,7 @@
   "description": "サービスパスポートが利用できる近くの店舗が探せます!",
   "form_url": "",
   "logo_image_url": "https://serpass-map.github.io/serpass-map/serpassメインロゴ.png",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e",
+  "background_image_url": "",
+  "primary_color": "#ffff5b",
   "orderby": "distance"
 }
