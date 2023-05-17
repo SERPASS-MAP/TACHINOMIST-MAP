@@ -2,7 +2,7 @@
   "title": "SERPASS MAP",
   "description": "サーパスが利用できる近くの店舗が探せます!",
   "form_url": "",
-  "logo_image_url": "https://serpass-map.github.io/serpass-map/serpassメインロゴ.png",
+  "logo_image_url": "https://serpass.net/wp-content/themes/customtheme/images/logo.svg",
   "background_image_url": "",
   "primary_color": "#696969",
   "orderby": "distance"
